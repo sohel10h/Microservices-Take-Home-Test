@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uHgTg390ulXLJ5P4s1JKkPRQ+LRupZ7loA6PasxCuRn6/AVJs1AO0kkmE2PTSoBRwmgqm+vrzjattqQacYYWMA==",
+  "success": true,
+  "projectFilePath": "/Users/sohel10h/Desktop/test/Microservices-Take-Home-Test/OrderProcessing/src/OrderProcessing.Application/OrderProcessing.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/sohel10h/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/Users/sohel10h/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "/Users/sohel10h/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "/Users/sohel10h/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
